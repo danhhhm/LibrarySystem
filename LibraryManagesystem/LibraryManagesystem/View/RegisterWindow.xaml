@@ -1,0 +1,33 @@
+﻿<Window x:Class="LibraryManagesystem.View.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Register" Height="450" Width="400" WindowStartupLocation="CenterScreen">
+
+    <Grid Background="#f3f4f6">
+        <Border Background="White" CornerRadius="10" Padding="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <StackPanel>
+                <!-- Title -->
+                <TextBlock Text="Register" FontSize="24" FontWeight="Bold" Foreground="#1f2937" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+                <!-- Username Field -->
+                <TextBlock Text="Username:" FontSize="14" Foreground="#4b5563" Margin="0,0,0,5"/>
+                <TextBox x:Name="UsernameTextBox" Padding="8" Height="35" Background="#e5e7eb" BorderBrush="#d1d5db" BorderThickness="1" FontSize="14"/>
+
+                <!-- Password Field -->
+                <TextBlock Text="Password:" FontSize="14" Foreground="#4b5563" Margin="0,15,0,5"/>
+                <PasswordBox x:Name="PasswordBox" Padding="8" Height="35" Background="#e5e7eb" BorderBrush="#d1d5db" BorderThickness="1" FontSize="14"/>
+
+                <!-- Error Message -->
+                <TextBlock x:Name="ErrorMessageTextBlock" Foreground="Red" FontSize="12" HorizontalAlignment="Center" Margin="0,10,0,0" TextAlignment="Center" Visibility="Collapsed"/>
+
+                <!-- Register Button -->
+                <Button Content="Register" Width="100" Height="35" Background="#34d399" Foreground="White" BorderBrush="Transparent" 
+                        Cursor="Hand" Margin="0,20,0,0" HorizontalAlignment="Center" Click="RegisterButton_Click"
+                        FontSize="16" FontWeight="SemiBold"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE\\PRN1\\LibraryManagesystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|d:\\se\\prn1\\librarymanagesystem\\librarymanagesystem\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|solutionrelative:librarymanagesystem\\view\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|d:\\se\\prn1\\librarymanagesystem\\librarymanagesystem\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|solutionrelative:librarymanagesystem\\view\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|d:\\se\\prn1\\librarymanagesystem\\librarymanagesystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|solutionrelative:librarymanagesystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|d:\\se\\prn1\\librarymanagesystem\\librarymanagesystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|solutionrelative:librarymanagesystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|d:\\se\\prn1\\librarymanagesystem\\librarymanagesystem\\view\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F30B00B-9FB1-48D3-9E80-8F5F5CFEB507}|LibraryManagesystem\\LibraryManagesystem.csproj|solutionrelative:librarymanagesystem\\view\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\View\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagesystem\\View\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\View\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "LibraryManagesystem\\View\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:22:37.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\View\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryManagesystem\\View\\UserWindow.xaml",
+              "ToolTip": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\View\\UserWindow.xaml",
+              "RelativeToolTip": "LibraryManagesystem\\View\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T09:15:56.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\View\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryManagesystem\\View\\RegisterWindow.xaml",
+              "ToolTip": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\View\\RegisterWindow.xaml",
+              "RelativeToolTip": "LibraryManagesystem\\View\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T09:15:44.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryManagesystem\\MainWindow.xaml",
+              "ToolTip": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryManagesystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T08:57:04.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagesystem\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SE\\PRN1\\LibraryManagesystem\\LibraryManagesystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LibraryManagesystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:57:02.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
